@@ -1,7 +1,8 @@
 # HR_analytics-Employee_churn
 
-This repo is an example of using Machine learning to predict employee churn.<br>
+This is an example of using Machine learning to predict employee churn.<br>
 I go through the Exploratory Data Analysis of the dataset, showing some graphs and some of my thoughts.
+I chose `DecisionTreeClassifier` algorithm as my model.
 I then go through the steps of creating and training a model, as well as ways to improve the model.
 
 the files:<br>
